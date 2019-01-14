@@ -1,0 +1,6 @@
+# References:
+# https://github.com/justmarkham/scikit-learn-videos/blob/archive/08_grid_search.ipynb
+#https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+# https://en.wikipedia.org/wiki/F1_score
+# https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
